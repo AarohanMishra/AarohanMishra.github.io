@@ -6,6 +6,12 @@ I am a fourth year undergraduate student at Rochester Institute of Technology ma
 
 Incoming Inspection Engineering Intern @ GE Aerospace for Summer 2025; Resident Advisor @ RIT
 
+### My Education:
+
+- Rochester Institute of Technology
+    - B.S. in Computer Science, Minor in Applied Stats
+    - Named to Deans List for 4 semesters (Fall 2021, Spring 2022, Spring 2023, Fall 2024)
+
 ### [My Past Working Experience](./work-experience.md)
 
 ### [Programming Languages I've used](./programming-languages.md)
