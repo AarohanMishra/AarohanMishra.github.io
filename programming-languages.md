@@ -3,14 +3,14 @@
 ## Programming Languages I've used
 
 ### Python (Experienced)
-    - Numpy Package
-    - Pandas
-    - TensorFlow
-    - OpenCV
-    - PILLOW
-    - Pytesseract
-    - Openpyxl
-    - Pywin32com
+- Numpy Package
+- Pandas
+- TensorFlow
+- OpenCV
+- PILLOW
+- Pytesseract
+- Openpyxl
+- Pywin32com
 ### Java (Intermediate)
 ### R (Intermediate)
 ### JavaScript (Prior Experience)
