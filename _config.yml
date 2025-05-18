@@ -3,6 +3,7 @@ theme: jekyll-theme-minimal
 plugins:
 - jekyll-remote-theme 
 title: Aarohan Mishra
+logo: /assets/img/Profile-img.jpeg
 name: Aarohan Mishra
 description: Want to know more about Aarohan Mishra? You're at the right place! If not, maybe take a look around anyway?
 social-network-links:
